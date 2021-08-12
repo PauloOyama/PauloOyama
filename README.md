@@ -19,7 +19,7 @@
 </div>
  
  
-
+ ![Snake animation](https://github.com/PauloOyama/PauloOyama/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
