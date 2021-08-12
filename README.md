@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloOyama&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
- ![Snake animation](https://github.com/Pleiterson/PauloOyama/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/PauloOyama/PauloOyama/blob/output/github-contribution-grid-snake.svg)
 
   
   <div> 
