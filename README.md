@@ -1,5 +1,5 @@
 
-# Welcome, distant traveller to my Github Profile. 
+# Welcome, traveller from afar to my Github Profile. 
   
   ## About Me
  - Current living in Uberlândia, MG - Brazil
