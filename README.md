@@ -4,7 +4,7 @@
   ## About Me
  - Current living in Uberlândia, MG - Brazil;
  - Working as mobile developer with Flutter;
- - Studyng at Universidade Federal de Uberlândia - UFU with Computer Science;
+ - Studying at Universidade Federal de Uberlândia - UFU with Computer Science;
   
   ----
   
