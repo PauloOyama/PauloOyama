@@ -1,19 +1,19 @@
 
-# Welcome, traveller from afar to my Github Profile. 
+# Welcome, Traveller From Afar To My Github Profile. 
   
   ## About Me
- - Current living in Uberlândia, MG - Brazil
- - Working as mobile developer with Flutter
- - Studyng at Universidade Federal de Uberlândia - UFU with Computer Science
+ - Current living in Uberlândia, MG - Brazil;
+ - Working as mobile developer with Flutter;
+ - Studyng at Universidade Federal de Uberlândia - UFU with Computer Science;
   
   ## Some Tools That I Am Familiar With
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white`)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
+# Some Of My Stats
    <div>
   <a href="https://github.com/PauloOyama">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloOyama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
